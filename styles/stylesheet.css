@@ -86,7 +86,8 @@ body {
   margin-bottom: auto;
 }
 
-h1, #rodape {
+h1, 
+#rodape {
   background-color: coral;
   border-radius: 10px;
   font-family: "Arial";
