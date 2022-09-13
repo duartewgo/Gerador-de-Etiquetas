@@ -86,22 +86,20 @@ body {
   margin-bottom: auto;
 }
 
-h1 {
-  background-color: coral;
-  border-radius: 10px;
-  font-family: "Arial";
-  padding: 18px 18px 18px 18px;
-  text-align: center;
-  box-shadow: 2px 2px 5px;
-}
-
+h1,
 #rodape {
   background-color: coral;
   border-radius: 10px;
   font-family: "Arial";
-  padding: 18px 18px 18px 18px;
+  padding: 10px 10px 10px 10px;
   text-align: center;
   box-shadow: 2px 2px 5px;
+  width: 90%;
+  margin: auto;
+}
+
+h4 {
+  display: inline-block;
 }
 
 span {
